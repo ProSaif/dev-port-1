@@ -39,7 +39,7 @@ img {
 
 section {
   height: 500px;
-  margin-bottom: 20px;
+  margin: 50px 0;
 }
 
 .btn {
@@ -114,3 +114,6 @@ footer {
   border-image: linear-gradient(180deg, blue, red);
   border-image-slice: 1;
 }
+
+/* github hosting:
+     https://prosaif.github.io/dev-port-1/index.html*/
