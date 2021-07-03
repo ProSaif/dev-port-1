@@ -39,7 +39,7 @@ img {
 
 section {
   height: 500px;
-  margin: 50px 0;
+  margin-bottom: 20px;
 }
 
 .btn {
@@ -115,5 +115,8 @@ footer {
   border-image-slice: 1;
 }
 
-/* github hosting:
-     https://prosaif.github.io/dev-port-1/index.html*/
+.ex-area {
+  margin-top: 300px;
+}
+
+/* https://prosaif.github.io/dev-port-1/index.html */
